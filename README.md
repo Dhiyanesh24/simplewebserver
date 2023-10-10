@@ -47,7 +47,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Screenshot (20)](https://github.com/Dhiyanesh24/simplewebserver/assets/118362288/9e40e274-3b94-4542-98db-769d7ff42432)
+![image](https://github.com/Dhiyanesh24/simplewebserver/assets/118362288/f4ee110a-ffe3-4131-84ed-ab818e1eb035)
 
 
 ## RESULT:
